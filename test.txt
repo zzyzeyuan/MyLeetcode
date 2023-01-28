@@ -1,1 +1,0 @@
-验证new SSH key是否正常
